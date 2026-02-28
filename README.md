@@ -24,15 +24,6 @@ A secure backend authentication system built using Node.js, Express, MySQL, JWT,
 
 ---
 
-## API Endpoints
 
-### 🔹 Register User
-POST `/auth/register`
 
-```json
-{
-  "name": "Vivek",
-  "email": "vivek@test.com",
-  "password": "123456"
-}
 
